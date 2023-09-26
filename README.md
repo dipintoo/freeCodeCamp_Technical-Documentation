@@ -14,31 +14,31 @@ Sekarang... Ayo kita mulai!
 
 ## User Stories
 
-### 1. Elemen Utama
+### 1. Main Element
 
 - Anda dapat melihat elemen `<main>` dengan ID yang sesuai, yaitu `<main id="main-doc">`, yang berisi konten utama dari dokumentasi teknis.
 
-### 2. Bagian Utama
+### 2. Section 
 
 - Di dalam elemen `<main id="main-doc">`, Anda harus membuat beberapa elemen `<section>`, masing-masing dengan kelas "main-section". Minimal harus ada lima bagian.
 
-### 3. Header di Setiap Bagian
+### 3. Header di Setiap Section
 
 - Elemen pertama di setiap `.main-section` harus menjadi elemen `<header>` yang berisi teks yang menjelaskan topik dari bagian tersebut.
 
-### 4. ID Bagian
+### 4. Section ID
 
 - Setiap elemen `.main-section` dengan kelas "main-section" harus memiliki ID yang sesuai dengan teks dari header yang terdapat di dalamnya. Spasi dalam teks harus diganti dengan garis bawah (underscore) (contoh: Bagian yang berisi header "JavaScript and Java" harus memiliki ID yang sesuai, yaitu "JavaScript_and_Java").
 
-### 5. Elemen `<p>`
+### 5. Paragraph Element
 
 - Setiap elemen `.main-section` harus berisi minimal sepuluh elemen `<p>` secara total (bukan masing-masing).
 
-### 6. Elemen `<code>`
+### 6. Code Element
 
 - Setiap elemen `.main-section` harus berisi minimal lima elemen `<code>` secara total (bukan masing-masing).
 
-### 7. Elemen `<li>`
+### 7. List Element
 
 - Setiap elemen `.main-section` harus berisi minimal lima elemen `<li>` secara total (bukan masing-masing).
 
@@ -46,7 +46,7 @@ Sekarang... Ayo kita mulai!
 
 - Anda dapat melihat elemen `<nav>` dengan ID yang sesuai, yaitu `<nav id="navbar">`.
 
-### 9. Header Navigasi
+### 9. Navigasi Header
 
 - Elemen `<nav id="navbar">` harus berisi satu elemen `<header>` yang berisi teks yang menjelaskan topik dokumentasi teknis.
 
