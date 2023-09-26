@@ -1,4 +1,4 @@
-# 3/5 Technical Documentation Project
+# [3/5] Technical Documentation Project
 
 Selamat datang di Technical Documentation Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 
