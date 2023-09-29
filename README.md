@@ -1,7 +1,6 @@
-# [3/5] Technical Documentation Project
+# [3/5] Technical Documentation
 
-**Selamat datang di Technical Documentation Project!**  
-Project ini adalah yang ketiga dari lima project yang harus kamu selesaikan dan lolos pengujian untuk meraih sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp!. Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
+**SELAMAT!** kamu sudah berhasil menyelesaikan project kedua [Tribute Page](https://github.com/dipintoo/freeCodeCamp_Tribute-Page). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp!
 
 ### Persiapan
 
@@ -82,5 +81,8 @@ Kalo mau lihat Hasil codingan dan desain saya bisa click link di About ya 😀
 
 Jangan lupa buat dengan gaya kamu ya agar hasilnya lebih personal dan menantang buat kamu 😊👍🏻
 
-Selamat ngoding dan ngedesain!
+Selamat ngoding dan ngedesain!  
+
+
+[***Next Project - [4/5] Product Landing Page >>***](https://github.com/dipintoo/freeCodeCamp_Product-Landing-Page)
 
